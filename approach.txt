@@ -1,0 +1,8 @@
+Patterns
+Pairs
+Vectors
+List
+Deque
+Stack
+Queue
+Priority Queue
