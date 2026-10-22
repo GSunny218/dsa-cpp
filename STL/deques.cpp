@@ -12,4 +12,5 @@ int main() {
     cout << dq.back() << endl;  //Return last element
     //Rest functions are same as vector
     //begin, end, rbegin, rend, clear, insert, size, swap, etc.
+    return 0;
 }

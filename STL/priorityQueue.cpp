@@ -16,4 +16,5 @@ int main() {
     pq1.push(8); //{2, 5, 8}
     pq1.emplace(10); //{2, 5, 8, 10}
     cout << pq1.top() << endl;  //2
+    return 0;
 }

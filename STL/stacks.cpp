@@ -13,4 +13,5 @@ int main() {
     cout << st.empty() << endl;  //0 i.e., False
     stack<int> st1;
     st1.swap(st);
+    return 0;
 }

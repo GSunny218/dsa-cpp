@@ -8,4 +8,5 @@ int main() {
     ls.emplace_front(-1);  //{-1, 0, 1, 2, 3, 4, 5, 6, 7}
     //Rest functions are same as vector
     //begin, end, rbegin, rend, clear, insert, size, swap, etc.
+    return 0;
 }

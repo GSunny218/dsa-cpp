@@ -94,4 +94,5 @@ int main() {
     v9.clear(); //Clears the vector, making it empty
 
     cout << v9.empty(); //Returns True if vector is empty else False
+    return 0;
 }

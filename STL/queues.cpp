@@ -12,4 +12,5 @@ int main() {
     q.pop(); // Removes 1
     cout << q.front(); //2
     // size, swap, empty same as stack
+    return 0;
 }
