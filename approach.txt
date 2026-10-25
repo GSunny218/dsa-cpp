@@ -1,17 +1,25 @@
-Patterns
-Pairs
-Vectors
-List
-Deque
-Stack
-Queue
-Priority Queue
-Sets
-MutliSets
-Unordered Sets
-Map
-Multi Map
-Unordered Map
-Maths and it's problems
+Patherns  <-- Folder's Name
+    Patterns
+
+STL
+    Pairs
+    Vectors
+    List
+    Deque
+    Stack
+    Queue
+    Priority Queue
+    Sets
+    MutliSets
+    Unordered Sets
+    Map
+    Multi Map
+    Unordered Map
+
+Maths
+    Maths and it's problems
+
 Recursion
+    Recursion
+    
 Hashing
