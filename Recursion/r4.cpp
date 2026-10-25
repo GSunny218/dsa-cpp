@@ -39,6 +39,7 @@ int main() {
     //     cout << arr[i] << " ";
     // }
 
-    cout << isPalindrome(0, "madm");
+    cout << isPalindrome(0, "madam"); // Returns 1(True)
+    cout << isPalindrome(0, "apple"); //Returns 0(False)
     return 0;
 }
