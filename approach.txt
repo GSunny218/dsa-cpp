@@ -26,3 +26,8 @@ Hashing
     Hashing (Array)
     Hash Map
     Hash Unordered Map
+
+Sorting
+    Selection Sorting
+    Bubble Sorting
+    Insertion Sorting
