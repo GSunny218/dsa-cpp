@@ -32,17 +32,13 @@ int main() {
     */
 
     //2. Character hash map
-    int n;
-    cin >> n;
-    int arr[n];
-    for(int i = 0; i < n; i++) {
-        cin >> arr[i];
-    }
+    string s;
+    cin >> s;
 
     //pre compute
     map<char, int> mp;
-    for(int i = 0; i < n; i++) {
-        mp[arr[i]]++;
+    for(char i = 0; i < s.size(); i++) {
+        mp[s[i]]++;
     }
 
     for(auto it : mp) {  //Auto iterator
@@ -52,11 +48,12 @@ int main() {
     int q;
     cin >> q;
     while(q--) {
-        int number;
+        char number;
         cin >> number;
 
         //Fetching
         cout << mp[number] << endl;
     }
 
+    return 0;
 }
