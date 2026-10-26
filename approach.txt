@@ -31,3 +31,4 @@ Sorting
     Selection Sorting
     Bubble Sorting
     Insertion Sorting
+    Merge Sorting
