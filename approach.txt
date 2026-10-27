@@ -32,3 +32,4 @@ Sorting
     Bubble Sorting
     Insertion Sorting
     Merge Sorting
+    Quick Sorting
