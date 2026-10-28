@@ -33,3 +33,7 @@ Sorting
     Insertion Sorting
     Merge Sorting
     Quick Sorting
+
+Array
+    Largest element in an array
+    
