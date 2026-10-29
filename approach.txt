@@ -36,4 +36,6 @@ Sorting
 
 Array
     Largest element in an array
-    
+    Second Largest in an array, Second Smallest in an array
+    Check if array is sorted
+    Left Rotate the array by one place
