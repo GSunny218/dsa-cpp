@@ -39,3 +39,7 @@ Array
     Second Largest in an array, Second Smallest in an array
     Check if array is sorted
     Left Rotate the array by one place
+    Left Rotate the array by D places
+    Move Zeroes to the end
+    Linear Search
+    Union of two sorted array
