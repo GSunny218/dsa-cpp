@@ -43,3 +43,7 @@ Array
     Move Zeroes to the end
     Linear Search
     Union of two sorted array
+    intersection of two sorted array
+    Missing number
+    Maximum consecutive ones
+    Find the number that appears once and other twice
