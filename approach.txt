@@ -49,3 +49,4 @@ Array
     Find the number that appears once and other twice
     Longest subarray with sum K
     Two Sum
+    Sort an array of 0's, 1's and 2's. Also done "Dutch National Flag Algorithm"
