@@ -47,3 +47,5 @@ Array
     Missing number
     Maximum consecutive ones
     Find the number that appears once and other twice
+    Longest subarray with sum K
+    Two Sum
