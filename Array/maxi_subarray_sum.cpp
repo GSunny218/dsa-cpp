@@ -27,7 +27,7 @@ using namespace std;
     return maxi;
 }*/
 
-long long maxSubarraySum(vector<int>& arr, int n) {
+long long maxSubarraySum(vector<int>& arr, int n) { //Optimal Solution (Kadane's Algorithm)
     long long maxi = LONG_MIN, sum = 0;
     int start, ansStart = -1, ansEnd = -1;
     for(int i = 0; i < n; i++) {
